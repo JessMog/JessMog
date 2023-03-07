@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jesse-mogere-2b331b188/">
@@ -12,3 +12,14 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+  ____________________________________________________________________________________________________________________________________________________
+
+### :man_technologist: About Me :
+  I am a Data Scientist    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">    from Kenya.
+  - :telescope: I’m Studying as a Data Science student at Moringa School.
+
+- :seedling: Exploring different Machine Learning Technologies.
+
+- :zap: In my free time, I actively participate in Data Science Communities and work and open source projects.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesse-mogere-2b331b188/)
