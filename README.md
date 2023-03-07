@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
   I am a Data Scientist from Kenya.
-  - :telescope: I’m Studying as a Data Science student at Moringa School.
+  - :telescope: I recently completed coursework in Data Science from Moringa School.
 
 - :seedling: Exploring different Machine Learning Technologies.
 
