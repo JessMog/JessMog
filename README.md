@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me :
   I am a Data Scientist from Kenya.
-  - :telescope: I recently completed coursework in Data Science from Moringa School.
+  - :telescope: I am currently working as a Data Scientist at Kayana Create.
 
 - :seedling: Exploring different Machine Learning Technologies.
 
